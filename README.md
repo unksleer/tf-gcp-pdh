@@ -87,6 +87,6 @@ provider.tf
 
 backend.tf - This is where you would add a storage account to store your terraform state file
 
+## Credentials and identifiers
 
-
-
+The project id and names in this repository are placeholders. Authenticate with `gcloud auth application-default login` or a service account key kept outside the repository; never commit keys or state files.
